@@ -23,8 +23,7 @@ EndPoints Disponibles
         ]
     }
 
-
-2. Registrar Orden
+3. Registrar Orden
     Método: POST
     URL: /orden
     Descripción: Registra una nueva orden.
